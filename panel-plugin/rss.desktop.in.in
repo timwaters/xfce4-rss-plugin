@@ -2,6 +2,6 @@
 Type=X-XFCE-PanelPlugin
 Encoding=UTF-8
 _Name=RSS Aggregator
-_Comment=Check and display RSS feeds from the internet
+_Comment=Check and display RSS feeds
 Icon=
 X-XFCE-Exec=@PLUGIN_PATH@/xfce4-rss-plugin.py
