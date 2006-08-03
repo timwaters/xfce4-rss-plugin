@@ -20,10 +20,9 @@ dnl Check for i18n support
 XDT_I18N([@LINGUAS@])
 
 dnl Required packages
-AM_CHECK_PYMOD(pygtk,,,[AC_MSG_ERROR([not found])])
-AM_CHECK_PYMOD(gtk,,,[AC_MSG_ERROR([not found])])
-AM_CHECK_PYMOD(xfce4,,,[AC_MSG_ERROR([not found])])
-AM_CHECK_PYMOD(pyexo,,,[AC_MSG_ERROR([not found])])
+AM_CHECK_PYMOD(gtk,,,[AC_MSG_ERROR([not found])],2.0)
+AM_CHECK_PYMOD(xfce4,,,[AC_MSG_ERROR([not found])],2.0)
+AM_CHECK_PYMOD(pyexo,,,[AC_MSG_ERROR([not found])],2.0)
 AM_CHECK_PYMOD(feedparser,,,[AC_MSG_ERROR([not found])])
 
 AC_OUTPUT([
