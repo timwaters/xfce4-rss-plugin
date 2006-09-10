@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xfce4-rss-plugin 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-28 14:12-0300\n"
+"POT-Creation-Date: 2006-09-10 21:29+0200\n"
 "PO-Revision-Date: 2006-07-30 09:41+0100\n"
 "Last-Translator: Maximilian Schleiss <maxschleiss@bluewin.ch>\n"
 "Language-Team: French <xfce-i18n@xfce.org>\n"
@@ -17,8 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../panel-plugin/props.py:25
-#: ../panel-plugin/rss.desktop.in.in.h:2
+#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
 msgstr "Agrégateur RSS"
 
@@ -26,8 +25,7 @@ msgstr "Agrégateur RSS"
 msgid "RSS Feeds:"
 msgstr "flux RSS:"
 
-#: ../panel-plugin/props.py:63
-#: ../panel-plugin/props.py:107
+#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
 msgstr "Nom"
 
@@ -49,6 +47,6 @@ msgid "RSS"
 msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
-msgid "Check and display RSS feeds from the internet"
+#, fuzzy
+msgid "Check and display RSS feeds"
 msgstr "Vérifier et afficher les flux RSS depuis internet"
-

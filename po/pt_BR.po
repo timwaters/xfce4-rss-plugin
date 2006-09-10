@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xfce4-rss-plugin 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-28 14:12-0300\n"
+"POT-Creation-Date: 2006-09-10 21:29+0200\n"
 "PO-Revision-Date: 2006-07-15 15:22-0300\n"
 "Last-Translator: Adriano Winter Bess <adriano@xfce.org>\n"
 "Language-Team: Portuguese <ldp-br@bazar.conectiva.com.br>\n"
@@ -46,5 +46,6 @@ msgid "RSS"
 msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
-msgid "Check and display RSS feeds from the internet"
+#, fuzzy
+msgid "Check and display RSS feeds"
 msgstr "Verifica e mostra informações RSS da internet"

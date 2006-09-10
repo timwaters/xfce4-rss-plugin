@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xfce4-rss-plugin 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-28 14:12-0300\n"
+"POT-Creation-Date: 2006-09-10 21:29+0200\n"
 "PO-Revision-Date: 2006-08-27 01:47+0100\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
@@ -16,8 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: ../panel-plugin/props.py:25
-#: ../panel-plugin/rss.desktop.in.in.h:2
+#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
 msgstr "Agregátor kanálů RSS"
 
@@ -25,8 +24,7 @@ msgstr "Agregátor kanálů RSS"
 msgid "RSS Feeds:"
 msgstr "Informační kanály RSS:"
 
-#: ../panel-plugin/props.py:63
-#: ../panel-plugin/props.py:107
+#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
 msgstr "Název"
 
@@ -48,6 +46,6 @@ msgid "RSS"
 msgstr "Technologie RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
-msgid "Check and display RSS feeds from the internet"
+#, fuzzy
+msgid "Check and display RSS feeds"
 msgstr "Kontroluje a zobrazuje informační kanály RSS z internetu"
-

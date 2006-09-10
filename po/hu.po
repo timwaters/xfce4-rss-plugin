@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-09-10 21:29+0200\n"
 "PO-Revision-Date: 2006-08-01 19:58+0100\n"
 "Last-Translator: SZERVÑC Attila <sas@321.hu>\n"
 "Language-Team: hu\n"
@@ -12,8 +13,7 @@ msgstr ""
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
 
-#: ../panel-plugin/props.py:25
-#: ../panel-plugin/rss.desktop.in.in.h:2
+#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
 msgstr "RSS Gyűjtő"
 
@@ -21,8 +21,7 @@ msgstr "RSS Gyűjtő"
 msgid "RSS Feeds:"
 msgstr "RSS értesítők:"
 
-#: ../panel-plugin/props.py:63
-#: ../panel-plugin/props.py:107
+#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
 msgstr "Név"
 
@@ -44,6 +43,6 @@ msgid "RSS"
 msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
-msgid "Check and display RSS feeds from the internet"
+#, fuzzy
+msgid "Check and display RSS feeds"
 msgstr "RSS értesítőket figyel és mutat az internetről"
-
