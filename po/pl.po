@@ -43,6 +43,5 @@ msgid "RSS"
 msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
-#, fuzzy
 msgid "Check and display RSS feeds"
-msgstr "Sprawdź i wyświetl wszystkie kanały RSS z internetu"
+msgstr "Sprawdź i wyświetl wszystkie kanały RSS"
