@@ -2,6 +2,7 @@
 # Copyright (C) 2006 Adriano Winter Bess <adriano@xfce.org>
 # This file is distributed under the same license as the xfce4-rss-plugin package.
 # Adriano Winter Bess <adriano@xfce.org>, 2006.
+# Og Maciel <ogmaciel@gnome.org>, 2007.
 #
 msgid ""
 msgstr ""
