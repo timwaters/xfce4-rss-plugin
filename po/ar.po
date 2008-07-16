@@ -11,8 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Arabic\n"
 
-#: ../panel-plugin/props.py:25
-#: ../panel-plugin/rss.desktop.in.in.h:2
+#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
 msgstr ""
 
@@ -20,8 +19,7 @@ msgstr ""
 msgid "RSS Feeds:"
 msgstr ""
 
-#: ../panel-plugin/props.py:63
-#: ../panel-plugin/props.py:107
+#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
 msgstr ""
 
@@ -45,4 +43,3 @@ msgstr ""
 #: ../panel-plugin/rss.desktop.in.in.h:1
 msgid "Check and display RSS feeds"
 msgstr ""
-
