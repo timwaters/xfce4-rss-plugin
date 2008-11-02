@@ -1,14 +1,14 @@
 # Czech translations for xfce4-rss-plugin package.
 # Copyright (C) 2006 THE xfce4-rss-plugin'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the xfce4-rss-plugin package.
-# Michal Várady <miko.vaji@gmail.com>, 2006.
+# Michal Várady <miko.vaji@gmail.com>, 2006-2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: xfce4-rss-plugin 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:29+0200\n"
-"PO-Revision-Date: 2006-08-27 01:47+0100\n"
+"PO-Revision-Date: 2008-11-02 19:00+0100\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
+#: ../panel-plugin/props.py:25
+#: ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
 msgstr "Agregátor kanálů RSS"
 
@@ -24,7 +25,8 @@ msgstr "Agregátor kanálů RSS"
 msgid "RSS Feeds:"
 msgstr "Informační kanály RSS:"
 
-#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
+#: ../panel-plugin/props.py:63
+#: ../panel-plugin/props.py:107
 msgid "Name"
 msgstr "Název"
 
@@ -46,6 +48,6 @@ msgid "RSS"
 msgstr "Technologie RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
-#, fuzzy
 msgid "Check and display RSS feeds"
-msgstr "Kontroluje a zobrazuje informační kanály RSS z internetu"
+msgstr "Kontroluje a zobrazuje informační kanály RSS"
+
