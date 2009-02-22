@@ -1,35 +1,34 @@
-# translation of xfce4-rss-plugin to Danish
-# Copyright (C) 2007 THE xfce4-rss-plugin'S COPYRIGHT HOLDER
+# Spanish translations for xfce4-rss-plugin package
+# Copyright (C) 2009 THE xfce4-rss-plugin'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the xfce4-rss-plugin package.
-# Jens Hyllegaard <jens.hyllegaard@gmail.com>, 2007.
-# Per Kongstad <p_kongstad@op.pl>, 2008.
+#  <abel.martin.ruiz@gmail.com>, 2009.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: xfce4-rss-plugin 0.0.1\n"
+"Project-Id-Version: xfce4-rss-plugin\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:12+0200\n"
-"PO-Revision-Date: 2008-10-18 22:23+0100\n"
-"Last-Translator: Per Kongstad <p_kongstad@op.pl>\n"
-"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"PO-Revision-Date: 2009-02-11 20:17+0100\n"
+"Last-Translator: Abel Martín <abel.martin.ruiz@gmail.com>\n"
+"Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Danish\n"
-"X-Poedit-Country: DENMARK\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../panel-plugin/props.py:25
 #: ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
-msgstr "RSS-opsamler"
+msgstr "Agregador RSS"
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
-msgstr "RSS-kilder:"
+msgstr "Proveedores RSS:"
 
 #: ../panel-plugin/props.py:63
 #: ../panel-plugin/props.py:107
 msgid "Name"
-msgstr "Navn"
+msgstr "Nombre"
 
 #: ../panel-plugin/props.py:73
 msgid "URL"
@@ -38,11 +37,11 @@ msgstr "URL"
 #. Start with an empty feeds menu
 #: ../panel-plugin/plugin.py:51
 msgid "Feeds"
-msgstr "Kilder"
+msgstr "Proveedores"
 
 #: ../panel-plugin/plugin.py:61
 msgid "Refresh all"
-msgstr "Genopfrisk alle"
+msgstr "Refrescar todos"
 
 #: ../panel-plugin/plugin.py:66
 msgid "RSS"
@@ -50,5 +49,5 @@ msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
 msgid "Check and display RSS feeds"
-msgstr "Kontrollér og vis RSS-kilder"
+msgstr "Comprueba y muestra proveedores de RSS"
 
