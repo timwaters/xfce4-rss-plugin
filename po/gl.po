@@ -10,10 +10,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: xfce-i18n@xfce.org\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:12+0200\n"
-"PO-Revision-Date: 2009-03-07 20:35+0100\n"
-"Last-Translator: Leandro Regueiro <leandro DOT regueiro AT gmail DOT com>\n"
+"PO-Revision-Date: 2009-04-14 21:35+0100\n"
+"Last-Translator: Leandro Regueiro <leandro.regueiro@gmail.com>\n"
 "Language-Team: Galician <proxecto@trasno.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
-msgstr ""
+msgstr "Fontes RSS:"
 
 #: ../panel-plugin/props.py:63
 #: ../panel-plugin/props.py:107
@@ -41,7 +41,7 @@ msgstr "URL"
 #. Start with an empty feeds menu
 #: ../panel-plugin/plugin.py:51
 msgid "Feeds"
-msgstr ""
+msgstr "Fontes de novas"
 
 #: ../panel-plugin/plugin.py:61
 msgid "Refresh all"
@@ -53,5 +53,5 @@ msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
 msgid "Check and display RSS feeds"
-msgstr ""
+msgstr "Comproba e mostra fontes de novas RSS"
 
