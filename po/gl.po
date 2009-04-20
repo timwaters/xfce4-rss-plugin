@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:12+0200\n"
-"PO-Revision-Date: 2009-04-14 21:35+0100\n"
+"PO-Revision-Date: 2009-04-17 21:36+0100\n"
 "Last-Translator: Leandro Regueiro <leandro.regueiro@gmail.com>\n"
 "Language-Team: Galician <proxecto@trasno.net>\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: ../panel-plugin/props.py:25
 #: ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
-msgstr ""
+msgstr "Agregador de RSS"
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
