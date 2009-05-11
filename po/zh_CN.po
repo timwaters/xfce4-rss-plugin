@@ -1,0 +1,49 @@
+# Chinese translations for xfce package.
+# Copyright (C) 2009 THE xfce'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the xfce package.
+# Hunt Xu <huntxu@live.cn>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce 4-rss-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-09-10 21:12+0200\n"
+"PO-Revision-Date: 2009-05-09 13:49+0800\n"
+"Last-Translator: Hunt Xu <huntxu@live.cn>\n"
+"Language-Team: Chinese (simplified)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
+msgid "RSS Aggregator"
+msgstr "RSS计数器"
+
+#: ../panel-plugin/props.py:46
+msgid "RSS Feeds:"
+msgstr "RSS源:"
+
+#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
+msgid "Name"
+msgstr "名称"
+
+#: ../panel-plugin/props.py:73
+msgid "URL"
+msgstr "URL"
+
+#. Start with an empty feeds menu
+#: ../panel-plugin/plugin.py:51
+msgid "Feeds"
+msgstr "源"
+
+#: ../panel-plugin/plugin.py:61
+msgid "Refresh all"
+msgstr "全部刷新"
+
+#: ../panel-plugin/plugin.py:66
+msgid "RSS"
+msgstr "RSS"
+
+#: ../panel-plugin/rss.desktop.in.in.h:1
+msgid "Check and display RSS feeds"
+msgstr "检测更新并显示RSS源"
