@@ -40,7 +40,7 @@ msgstr "フィード"
 
 #: ../panel-plugin/plugin.py:61
 msgid "Refresh all"
-msgstr "全て更新"
+msgstr "すべて更新"
 
 #: ../panel-plugin/plugin.py:66
 msgid "RSS"
