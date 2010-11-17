@@ -2,12 +2,12 @@
 # Copyright (C) 2006 Adriano Winter Bess <adriano@xfce.org>
 # This file is distributed under the same license as the xfce4-rss-plugin package.
 # Nuno Miguel <nunis@netcabo.pt>, 2007.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: xfce4-rss-plugin 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-09-10 21:29+0200\n"
+"POT-Creation-Date: 2006-09-10 21:12+0200\n"
 "PO-Revision-Date: 2007-06-30 18:22+0100\n"
 "Last-Translator: Nuno Miguel <nunis@netcabo.pt>\n"
 "Language-Team: \n"
@@ -16,17 +16,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../panel-plugin/props.py:25
-#: ../panel-plugin/rss.desktop.in.in.h:2
+#: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
 msgstr "Agregador RSS"
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
-msgstr "Informações RSS"
+msgstr "Fontes RSS:"
 
-#: ../panel-plugin/props.py:63
-#: ../panel-plugin/props.py:107
+#: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
 msgstr "Nome"
 
@@ -37,11 +35,11 @@ msgstr "URL"
 #. Start with an empty feeds menu
 #: ../panel-plugin/plugin.py:51
 msgid "Feeds"
-msgstr "Feeds"
+msgstr "Fontes"
 
 #: ../panel-plugin/plugin.py:61
 msgid "Refresh all"
-msgstr "Actualizar todos"
+msgstr "Actualizar todas"
 
 #: ../panel-plugin/plugin.py:66
 msgid "RSS"
@@ -49,5 +47,4 @@ msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
 msgid "Check and display RSS feeds"
-msgstr "Verifica e mostra feeds RSS"
-
+msgstr "Verifica e mostra as fontes RSS"
