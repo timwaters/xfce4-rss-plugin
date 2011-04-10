@@ -1,0 +1,54 @@
+# Slovak translation for xfce4-rss-plugin
+# Copyright (C) YEAR THE xfce4-rss-plugin'S  COPYRIGHT HOLDER
+# This file is distributed under the same license as the xfce4-rss-plugin'S package.
+# Michal Löffler lofflermichalloffler@gmail.com, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-rss-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-09-10 21:12+0200\n"
+"PO-Revision-Date: 2011-04-10 22:17+0100\n"
+"Last-Translator: Michal Löffler <lofflermichalloffler@gmail.com>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Slovak\n"
+"X-Poedit-Country: SLOVAKIA\n"
+
+#: ../panel-plugin/props.py:25
+#: ../panel-plugin/rss.desktop.in.in.h:2
+msgid "RSS Aggregator"
+msgstr "RSS Čítačka"
+
+#: ../panel-plugin/props.py:46
+msgid "RSS Feeds:"
+msgstr "RSS Kanály:"
+
+#: ../panel-plugin/props.py:63
+#: ../panel-plugin/props.py:107
+msgid "Name"
+msgstr "Názov"
+
+#: ../panel-plugin/props.py:73
+msgid "URL"
+msgstr "URL"
+
+#. Start with an empty feeds menu
+#: ../panel-plugin/plugin.py:51
+msgid "Feeds"
+msgstr "Kanály"
+
+#: ../panel-plugin/plugin.py:61
+msgid "Refresh all"
+msgstr "Obnoviť všetko"
+
+#: ../panel-plugin/plugin.py:66
+msgid "RSS"
+msgstr "RSS"
+
+#: ../panel-plugin/rss.desktop.in.in.h:1
+msgid "Check and display RSS feeds"
+msgstr "Skontroluje a zobrazí RSS kanály"
+
