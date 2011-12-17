@@ -26,7 +26,6 @@ msgid "Name"
 msgstr "إسم"
 
 #: ../panel-plugin/props.py:73
-#, fuzzy
 msgid "URL"
 msgstr "URL"
 
@@ -40,7 +39,6 @@ msgid "Refresh all"
 msgstr "أنعش الكل"
 
 #: ../panel-plugin/plugin.py:66
-#, fuzzy
 msgid "RSS"
 msgstr "RSS"
 
