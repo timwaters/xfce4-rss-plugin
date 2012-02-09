@@ -3,7 +3,7 @@
 # This file is distributed under the same license as
 # the xfce4-rss-plugin package.
 # Hunt Xu <huntxu@live.cn>, 2009.
-# Chipong Luo <chipong_l@yahoo.com>, 2011.
+# Chipong Luo <chipong.luo@yahoo.com>, 2011, 2012.
 #
 msgid ""
 msgstr ""
@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:12+0200\n"
 "PO-Revision-Date: 2009-05-09 13:49+0800\n"
-"Last-Translator: Chipong Luo <chipong_l@yahoo.com>\n"
+"Last-Translator: Chipong Luo <chipong.luo@yahoo.com>\n"
 "Language-Team: Chinese (Simplified) <xfce-i18n@xfce.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
-msgstr "聚合新闻阅读器"
+msgstr "RSS 阅读器"
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
-msgstr "聚合新闻源："
+msgstr "RSS 源："
 
 #: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
@@ -32,7 +32,7 @@ msgstr "名称"
 
 #: ../panel-plugin/props.py:73
 msgid "URL"
-msgstr "地址"
+msgstr "URL"
 
 #. Start with an empty feeds menu
 #: ../panel-plugin/plugin.py:51
@@ -45,8 +45,8 @@ msgstr "全部刷新"
 
 #: ../panel-plugin/plugin.py:66
 msgid "RSS"
-msgstr "聚合新闻"
+msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
 msgid "Check and display RSS feeds"
-msgstr "检测更新并显示聚合新闻源"
+msgstr "检测更新并显示 RSS 源"
