@@ -1,7 +1,7 @@
 # Hebrew translation for xfce4-rss-plugin package.
-# Copyright (C) Copyright (C) 2006 Adriano Winter Bess <adriano at xfce.org>
-# This file is distributed under the same license as the xfce4-rss-plugin package.
-# Genghis Khan <genghiskhan@gmx.ca>, 2012.
+# Copyright (C) 2006 Adriano Winter Bess <adriano at xfce.org>
+# This file is distributed under the Public Domain.
+# Hebrew speakers the world over, 2012.
 #
 msgid ""
 msgstr ""
