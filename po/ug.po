@@ -18,11 +18,11 @@ msgstr ""
 #: ../panel-plugin/props.py:25
 #: ../panel-plugin/rss.desktop.in.in.h:2
 msgid "RSS Aggregator"
-msgstr "RSS 集信"
+msgstr ""
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
-msgstr "RSS フィード:"
+msgstr ""
 
 #: ../panel-plugin/props.py:63
 #: ../panel-plugin/props.py:107
@@ -36,7 +36,7 @@ msgstr "URL"
 #. Start with an empty feeds menu
 #: ../panel-plugin/plugin.py:51
 msgid "Feeds"
-msgstr "Feeds"
+msgstr ""
 
 #: ../panel-plugin/plugin.py:61
 msgid "Refresh all"
@@ -48,5 +48,5 @@ msgstr "RSS"
 
 #: ../panel-plugin/rss.desktop.in.in.h:1
 msgid "Check and display RSS feeds"
-msgstr "RSS feeds نى تەكشۈرىدۇ ۋە كۆرسىتىدۇ"
+msgstr "RSS feeds نى تەكشۈرۈش ۋە كۆرسىتىش"
 
