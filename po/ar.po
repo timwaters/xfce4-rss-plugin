@@ -1,16 +1,19 @@
-# 
+# محمد الحرقان <malham1@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: xfce\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:12+0200\n"
-"PO-Revision-Date: 2008-07-15 23:02+0200\n"
-"Last-Translator: Mohamed Magdy <mohamedmk@gmail.com>\n"
-"Language-Team: Arabeyes <doc@arabeyes.org>\n"
+"PO-Revision-Date: 2012-11-20 06:41+0300\n"
+"Last-Translator: محمد الحرقان <malham1@gmail.com>\n"
+"Language-Team: http://www.vertaal.com.ar/files/factory/ar/list/\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Poedit-Language: Arabic\n"
 
 #: ../panel-plugin/props.py:25 ../panel-plugin/rss.desktop.in.in.h:2
@@ -27,7 +30,7 @@ msgstr "إسم"
 
 #: ../panel-plugin/props.py:73
 msgid "URL"
-msgstr "URL"
+msgstr "مسار"
 
 #. Start with an empty feeds menu
 #: ../panel-plugin/plugin.py:51
@@ -36,7 +39,7 @@ msgstr "تغذية"
 
 #: ../panel-plugin/plugin.py:61
 msgid "Refresh all"
-msgstr "أنعش الكل"
+msgstr "تجديد الكل"
 
 #: ../panel-plugin/plugin.py:66
 msgid "RSS"
