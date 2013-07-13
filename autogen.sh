@@ -1,12 +1,23 @@
 #!/bin/sh
 #
-# $Id: autogen.sh 4312 2005-01-27 10:10:04Z jasper $
+# vi:set et ai sw=2 sts=2 ts=2: */
+#-
+# Copyright (c) Xfce Development Team
 #
-# Copyright (c) 2002-2005
-#         The Xfce development team. All rights reserved.
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2 of
+# the License, or (at your option) any later version.
 #
-# Written for Xfce by Benedikt Meurer <benny@xfce.org>.
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
 #
+# You should have received a copy of the GNU General Public
+# License along with this program; if not, write to the Free
+# Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+# Boston, MA 02110-1301, USA.
 
 (type xdt-autogen) >/dev/null 2>&1 || {
   cat >&2 <<EOF
@@ -18,9 +29,4 @@ EOF
   exit 1
 }
 
-linguas=`ls po/*.po | sed 's/po\/\([a-zA-Z_]*\).po/\1/' | tr '\n' ' '`
-sed -e "s/@LINGUAS@/${linguas}/g" < "configure.ac.in" > "configure.ac"
-
-exec xdt-autogen $@
-
-# vi:set ts=2 sw=2 et ai:
+XDT_AUTOGEN_REQUIRED_VERSION="4.7.2" exec xdt-autogen $@
