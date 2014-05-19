@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Xfce Panel Plugins\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-10 21:12+0200\n"
-"PO-Revision-Date: 2014-05-14 15:29+0000\n"
+"PO-Revision-Date: 2014-05-19 18:07+0000\n"
 "Last-Translator: Urides <urien.desterres@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/xfce-panel-plugins/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr "Agrégateur RSS"
 
 #: ../panel-plugin/props.py:46
 msgid "RSS Feeds:"
-msgstr "flux RSS :"
+msgstr "Flux RSS :"
 
 #: ../panel-plugin/props.py:63 ../panel-plugin/props.py:107
 msgid "Name"
